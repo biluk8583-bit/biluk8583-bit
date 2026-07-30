@@ -1,4 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Bilu Khan
+
+## 🚀 About Me
+- 🎓 Student
+- 💻 Learning Web Development
+- 🌱 Currently learning HTML, CSS & JavaScript
+- 🎯 Goal: Become a Full Stack Developer
+
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📫 Connect with Me
+- GitHub: https://github.com/biluk8583-bit## Hi there 👋
 
 <!--
 **biluk8583-bit/biluk8583-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,31 +1,75 @@
+# 👋 Hi, I'm Muhammad Bilal
 
-## 👋 About Me
+<h3 align="center">💻 Python Developer | 🌐 Web Development Learner | 🚀 Open Source Enthusiast</h3>
 
-I'm **Muhammad Bilal**, a passionate **Python Developer** and **Web Development Learner** from Pakistan. I enjoy building efficient software solutions, exploring new technologies, and continuously improving my programming skills.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;Web+Development+Learner;Always+Learning+New+Things!" />
+</p>
 
-I also have strong expertise in **Microsoft Office** and enjoy sharing knowledge with others through teaching. My goal is to create high-quality, user-friendly, and impactful projects.
+---
 
-### 🚀 My Journey Includes
+## 👨‍💻 About Me
 
-- 🐍 Developing projects using Python
-- 📊 Working with Python libraries like **Pandas**, **NumPy**, and **Scikit-learn**
-- 🌐 Learning **HTML, CSS, JavaScript**, and modern Web Development
-- 📈 Skilled in **Microsoft Excel, Word, and PowerPoint**
-- 👨‍🏫 Passionate about teaching and helping others learn technology
-- 💡 Strong problem-solving and analytical skills
-- 🤝 Experience working on individual and collaborative projects
-- 📊 Interested in Data Analysis and Data Visualization
-- 🤖 Currently learning Machine Learning and Artificial Intelligence
+- 🇵🇰 From Pakistan
+- 🐍 Python Developer
+- 🌐 Learning Web Development
+- 📚 Exploring AI & Machine Learning
+- 🚀 Open Source Enthusiast
+- 💡 Love Building Useful Projects
 
-### 🛠️ Tech Stack
+---
 
-`Python` • `HTML` • `CSS` • `JavaScript` • `Git` • `GitHub` • `Pandas` • `NumPy` • `Scikit-learn` • `MS Office`
+## 🚀 Tech Stack
 
-### 🎯 Current Goals
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-- 🌱 Improve my Python and AI skills
-- 🚀 Build real-world projects
-- 💼 Contribute to Open Source
-- 📚 Keep learning new technologies every day
+---
 
-> ⭐ *"Code. Learn. Build. Repeat."*
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biluk8583-bit&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biluk8583-bit&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=biluk8583-bit&theme=tokyonight)
+
+---
+
+## 🏆 Goals
+
+- ✅ Master Python
+- ✅ Learn Flask & Django
+- ✅ Build AI Projects
+- ✅ Contribute to Open Source
+- ✅ Become a Full Stack Developer
+
+---
+
+## 📂 Featured Projects
+
+⭐ Python Calculator
+
+⭐ Student Management System
+
+⭐ Weather App
+
+⭐ Portfolio Website
+
+⭐ To-Do App
+
+---
+
+## 📫 Contact
+
+📧 Email: your-email@example.com
+
+---
+
+<p align="center">
+⭐ If you like my work, don't forget to star my repositories!
+</p>

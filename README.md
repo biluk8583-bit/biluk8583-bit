@@ -1,9 +1,4 @@
-# 👋 Hi, I'm Muhammad Bilal
 
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;Web+Development+Learner;Always+Learning+New+Things!" />
-</p>
 
 ---
 

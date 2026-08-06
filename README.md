@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Bilu Khan
-
 Welcome to my GitHub profile!
 
 I am passionate about programming and continuously learning new technologies. I enjoy building Python projects, solving coding problems, and improving my development skills every day.

@@ -1,8 +1,5 @@
 <div align="center">
-
 # 👋 Hi, I'm **Bilu Khan*
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub!;Python+Developer;Git+%26+GitHub+Learner;Open+Source+Enthusiast;Always+Learning+New+Things!" />
-
 <img src="https://komarev.com/ghpvc/?username=biluk8583-bit&label=Profile+Views&style=for-the-badge&color=0891b2"/>
 
 </div>
@@ -28,10 +25,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,html,css,vscode,linux,markdown"/>
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=python,git,github
 
 # 📊 GitHub Stats
 

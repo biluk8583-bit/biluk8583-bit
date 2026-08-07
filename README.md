@@ -1,3 +1,28 @@
+
+---
+
+## 🌟 My Journey
+
+```text
+🎓 Student
+      │
+      ▼
+💻 Computer Basics
+      │
+      ▼
+🤖 Artificial Intelligence (AI)
+      │
+      ▼
+🐍 Python Programming
+      │
+      ▼
+🚀 Git & GitHub
+      │
+      ▼
+💼 Future Software Engineer
+```
+
+---
 ---
 
 ## 🌟 My Journey

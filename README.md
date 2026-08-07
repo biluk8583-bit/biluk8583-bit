@@ -1,6 +1,4 @@
 👋Hi,I,am Bilu khan
-python developer,Ai
-```text
 🎓 Student
       │
       ▼
